@@ -1,0 +1,20 @@
+.faq-row-wrapper {
+  max-width: 46.5rem;
+  margin: auto;
+}
+
+.faq-row-wrapper .faq-body .faq-row {
+  border-radius: 8px;      
+  background-color: #f5f9fb;
+  padding: 37px;
+  margin-bottom: 1rem;
+  border: none;
+}
+
+.faq-row-wrapper .icon-wrapper {
+  font-size: 36px !important;
+  font-weight: thin !important;
+  transform: none !important;
+  top: 37px !important;
+  right: 37px !important;
+}
